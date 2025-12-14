@@ -60,13 +60,12 @@ A full-scale fashion e-commerce website with modern UI and smooth user experienc
 
 ---
 
-### 👕 Virtuous.pk — Fashion & Lifestyle Brand
+### 👩‍🔬 Virtuous.pk — Organic Cosmeceutical E-commerce Store
+A online store offering **lab-tested, natural personal care products** with clear product benefits and discount promotions, aimed at delivering a smooth shopping experience.
 
-A production-ready clothing and lifestyle platform focused on branding and performance.
+🔗 **Live:** https://virtuous.pk/  
+**Tech Used:** JavaScript, React, Talwind CSS
 
-🔗 **Live:** [https://virtuous.pk/](https://virtuous.pk/)
-
-**Tech Used:** React, JavaScript, CSS
 
 ---
 
