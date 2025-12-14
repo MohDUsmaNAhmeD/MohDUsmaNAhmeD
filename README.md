@@ -99,11 +99,7 @@ A responsive food delivery application with a user-friendly interface.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-usman" target="blank">
+  <a href="https://www.linkedin.com/in/muhammd-usman-0a07542b8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/محمد عثمان الاہی" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/usman_exe31" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram
+  
