@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🔭 Currently working on multiple **production-level web and e-commerce projects**
 * 👨‍💻 Strong focus on **React, JavaScript, and TypeScript**
