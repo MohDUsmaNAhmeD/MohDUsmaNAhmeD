@@ -91,7 +91,7 @@ A responsive food delivery application with a user-friendly interface.
 
 ## 🌐 Portfolio
 
-🔗 **All projects:** [https://my-portfolio-usman.netlify.app/](https://md-usmandev.vercel.app/)
+🔗 **All projects:** [md-usmandev.vercel.app](https://md-usmandev.vercel.app/)
 
 ---
 
